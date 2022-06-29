@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+  
+}
+body{
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+
+div{
+    margin-top: 10rem;
+    width: 20rem;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.selection>div{
+  width: 10rem;
+}
+.creation{
+    
+    background-color: black;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     
+}
+.searching{
+    background-color: black;
+}
